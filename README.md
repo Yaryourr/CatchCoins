@@ -1,1 +1,1 @@
-# CatchCoins
+# CatchCoins - A Scratch Project
